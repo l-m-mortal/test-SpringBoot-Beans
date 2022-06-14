@@ -1,5 +1,5 @@
 # test-SpringBoot-3-Beans
-This code was written in order to train "Beans" processing in Spring
+This code has been written in order to train "Beans" processing in Spring
 
 This code is simple implemetation of 3 ways of @Bean processing in Spring:
 1) via .xml file
